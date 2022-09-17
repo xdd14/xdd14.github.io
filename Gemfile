@@ -38,4 +38,4 @@ gem "webrick"
 gem 'bulma-clean-theme', '~> 0.13.1'
 gem "kramdown-math-katex"
 gem "katex"
-gem "duktape"
+# gem "duktape"
